@@ -6,4 +6,6 @@
 
 🤝 The mission is human-centered: we designed Safety Watch to put people first. By combining technology with compassion, we hope to empower communities with timely information and support. This project reminds me why technology can make a difference in people’s lives.
 
-Thank you for reading! #Hackathon #WebDevelopment #FullStackDevelopment #TechForGood #PeaceTech
+Thank you for reading!
+
+#Hackathon #WebDevelopment #FullStackDevelopment #TechForGood #PeaceTech
